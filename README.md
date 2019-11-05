@@ -37,28 +37,3 @@ cd simple-mern-passport
 npm install
 npm run dev
 ```
-
-# Instructions
-
-Complete instructions at https://medium.com/@brendt_bly/simple-mern-passport-app-tutorial-4aec2105e367
-
-### Completed Features
-
-- [ ] Sign up, login and logout.
-- [ ] Authentication with passport and bcryptjs.
-- [ ] Session information stored with express sessions.
-- [ ] Store data for production in sessions with connect-mongo
-
-### Next Steps
-- [ ] Add redux
-
-## Author
-
-Brendt Bly
-
-## Acknowledgments
-
-Thanks to the people who provided great examples:
-https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
-
-https://github.com/thechutrain/mern-passport
